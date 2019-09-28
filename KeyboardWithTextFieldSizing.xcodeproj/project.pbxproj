@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -38,7 +38,7 @@
 		F5D5507A215841AD0045BF34 = {
 			isa = PBXGroup;
 			children = (
-				F5D55085215841AD0045BF34 /* subirTeclado */,
+				F5D55085215841AD0045BF34 /* KeyboardWithTextFieldSizing */,
 				F5D55084215841AD0045BF34 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F5D55085215841AD0045BF34 /* subirTeclado */ = {
+		F5D55085215841AD0045BF34 /* KeyboardWithTextFieldSizing */ = {
 			isa = PBXGroup;
 			children = (
 				F5D55086215841AD0045BF34 /* AppDelegate.swift */,
@@ -61,7 +61,7 @@
 				F5D5508F215841AF0045BF34 /* LaunchScreen.storyboard */,
 				F5D55092215841AF0045BF34 /* Info.plist */,
 			);
-			path = subirTeclado;
+			path = KeyboardWithTextFieldSizing;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -100,8 +100,8 @@
 					};
 				};
 			};
-			buildConfigurationList = F5D5507E215841AD0045BF34 /* Build configuration list for PBXProject "subirTeclado" */;
-			compatibilityVersion = "Xcode 9.3";
+			buildConfigurationList = F5D5507E215841AD0045BF34 /* Build configuration list for PBXProject "KeyboardWithTextFieldSizing" */;
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -283,7 +283,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YWXNRFNS3F;
-				INFOPLIST_FILE = subirTeclado/Info.plist;
+				INFOPLIST_FILE = KeyboardWithTextFieldSizing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -301,7 +301,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YWXNRFNS3F;
-				INFOPLIST_FILE = subirTeclado/Info.plist;
+				INFOPLIST_FILE = KeyboardWithTextFieldSizing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,7 +316,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F5D5507E215841AD0045BF34 /* Build configuration list for PBXProject "subirTeclado" */ = {
+		F5D5507E215841AD0045BF34 /* Build configuration list for PBXProject "KeyboardWithTextFieldSizing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F5D55093215841AF0045BF34 /* Debug */,
